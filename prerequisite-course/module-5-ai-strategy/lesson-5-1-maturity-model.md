@@ -52,6 +52,18 @@ Most organizations exist somewhere on this spectrum. Understanding where you are
 **Typical organizations:** AI-native startups; leading enterprises with dedicated AI teams
 **Value unlocked:** Product differentiation; defensible competitive advantage
 
+### Level 5 — Agentic Enterprise (Emerging in 2026)
+**Characteristics:**
+- AI agents operate autonomously across workflows — not just assisting humans but completing multi-step tasks independently
+- AI agents have memory, access to tools, and can make decisions within defined boundaries
+- Human oversight is designed into the system (approvals, guardrails, audit trails) rather than assumed
+- By end of 2026, approximately 40% of enterprise business workflows will be managed by agentic AI
+
+**Typical organizations:** Leading-edge tech companies, financial services firms, forward-leaning mid-market leaders
+**Value unlocked:** Non-linear productivity gains; compounding efficiency as agents learn; entirely new service delivery models
+
+**Note:** Agentic AI is powerful but requires the most mature governance. Organizations should not attempt Level 5 without solid Level 3–4 foundations. By 2028, analysts project 33% of enterprise software applications will contain agentic AI capabilities (from less than 1% in 2024).
+
 ---
 
 ## Self-Assessment
@@ -70,4 +82,4 @@ Answer these questions honestly:
 - 4: Level 3
 - 5: Level 4
 
-**The goal of this program:** Move you and your function from wherever you are to Level 2 within 90 days, with a clear path to Level 3.
+**The goal of this program:** Move you and your function from wherever you are to Level 2 within 90 days, with a clear path to Level 3. For those already at Level 2–3, the Deep Dive will accelerate you toward Level 4 and introduce the agentic capabilities of Level 5.

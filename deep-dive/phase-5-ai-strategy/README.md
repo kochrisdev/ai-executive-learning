@@ -22,12 +22,13 @@ By the end of this phase, participants will:
 | Time | Activity | Format |
 |---|---|---|
 | 0:00–0:20 | Reflections from Days 1 & 2: what surprised you? | Group discussion |
-| 0:20–0:50 | AI vendor evaluation: how to make the buy/build/partner decision | Facilitator presentation |
-| 0:50–1:15 | Building your AI business case: ROI framing for the board | Facilitator + group exercise |
-| 1:15–1:30 | Break | |
-| 1:30–2:00 | Draft your 90-day AI adoption plan (work time) | Individual exercise |
-| 2:00–2:45 | 90-Day Plan presentations: each participant presents, cohort responds | Group presentations |
-| 2:45–3:00 | Program close, commitments, and accountability pairings | Facilitator |
+| 0:20–0:45 | AI vendor evaluation: buy / automate / partner / build decision | Facilitator presentation |
+| 0:45–1:05 | AI governance in 2026: EU AI Act, agentic AI policy, executive accountability | Facilitator presentation |
+| 1:05–1:30 | Building your AI business case: ROI framing for the board | Facilitator + group exercise |
+| 1:30–1:45 | Break | |
+| 1:45–2:15 | Draft your 90-day AI adoption plan (work time) | Individual exercise |
+| 2:15–3:00 | 90-Day Plan presentations: each participant presents, cohort responds | Group presentations |
+| 3:00–3:15 | Program close, commitments, and accountability pairings | Facilitator |
 
 ---
 
@@ -75,16 +76,18 @@ Each participant presents their plan using this structure:
 
 ---
 
-## 90-Day Milestone Template
+## 90-Day Milestone Template (2026)
 
 | Milestone | Week | Owner | Success Criterion |
 |---|---|---|---|
-| Accounts set up, team briefed on AI policy | 1–2 | Executive | 100% of team has access |
-| First team AI training session | 3–4 | Executive + facilitator | 80%+ attendance |
-| First workflow automated | 4–6 | Exec + ops | Running without manual intervention |
-| Custom agent deployed to team | 6–8 | Executive | Team using it weekly |
-| 30-day measurement complete | 8 | Executive | Hours saved quantified |
-| AI North Star progress review | 12 | Executive | On track vs. target metric |
+| Accounts provisioned; AI policy shared with team | 1–2 | Executive | 100% of team has approved tool access |
+| AI Opportunity Canvas reviewed with team; top 3 use cases confirmed | 2–3 | Executive | Team alignment on priorities |
+| First team AI session (using prerequisite course materials) | 3–4 | Executive + facilitator | 80%+ attendance; all using tools |
+| First workflow automated (Make.com or n8n) | 4–6 | Exec + ops | Running without manual intervention |
+| Custom agent deployed and shared with team | 6–8 | Executive | Team using it at least weekly |
+| EU AI Act / governance review completed (if applicable) | 6–8 | Executive + Legal/IT | AI inventory documented; high-risk uses identified |
+| 30-day measurement compiled | 8 | Executive | Hours saved quantified per person |
+| AI North Star progress review presented to leadership | 12 | Executive | On track vs. target metric; next phase scoped |
 
 ---
 

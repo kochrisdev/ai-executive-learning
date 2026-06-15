@@ -12,6 +12,15 @@ Perplexity workflow: ask question → get synthesized answer with cited sources 
 
 Perplexity is not a chatbot. It is a **search engine with AI synthesis**. Every answer includes live citations, so you can click through to verify. This makes it far more trustworthy than ChatGPT for research where recency and accuracy matter.
 
+### New in 2026: Perplexity Deep Research
+
+Perplexity now offers a **Deep Research** mode that:
+- Spends 2–5 minutes running dozens of searches autonomously
+- Synthesizes findings into a comprehensive, cited report
+- Comparable to what a junior analyst would produce in half a day
+
+**Executive use case:** Before a board meeting on a new market, run a Deep Research query — you receive a 5-10 page cited report on the competitive landscape, key players, regulatory environment, and recent moves.
+
 ---
 
 ## Interface Walkthrough

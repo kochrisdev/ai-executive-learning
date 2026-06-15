@@ -6,7 +6,9 @@
 
 ## The Spectrum of Current Executive AI Use
 
-AI adoption in 2025–2026 is no longer experimental for leading organizations. Here is how executives across functions are actually using it:
+AI adoption in 2026 has crossed the mainstream threshold. Samsung, one of the world's most conservative technology companies, formally approved ChatGPT, Claude, and Gemini enterprise-wide in June 2026 — reversing a 3-year ban. If Samsung is in, the question is no longer *whether* to adopt but *how fast* and *how well*.
+
+Here is how executives across functions are actually using it:
 
 ---
 
@@ -44,13 +46,15 @@ AI adoption in 2025–2026 is no longer experimental for leading organizations. 
 
 ## Where Early Adopters Are Winning
 
-**Time recovery:** Executives consistently report saving 5–10 hours per week on drafting, summarizing, and research tasks.
+**Time recovery:** Executives consistently report saving 5–10 hours per week on drafting, summarizing, and research tasks. A 2025 Google Cloud study showed 88% of early enterprise AI adopters achieved positive ROI.
 
-**Decision speed:** Faster synthesis of information means faster, better-informed decisions.
+**Decision speed:** Faster synthesis of information means faster, better-informed decisions — competitive intelligence that once took an analyst 2 days now takes 20 minutes.
 
 **Quality uplift on first drafts:** AI does not replace thinking — it eliminates blank-page friction and produces a solid starting point in seconds.
 
-**Async leverage:** A well-configured AI agent can work through a task while you sleep — summaries ready at 7am, research done before the meeting.
+**Agentic leverage:** In 2026, the biggest shift is from "AI answers questions" to "AI takes actions." All three major models now have agent modes that can control browsers, fill forms, and complete multi-step web tasks autonomously. By the end of 2026, approximately 40% of business workflows will be managed by agentic AI systems.
+
+**Async leverage:** A well-configured AI agent can work through a task while you sleep — summaries ready at 7am, research done before the meeting, follow-up emails drafted overnight.
 
 ---
 

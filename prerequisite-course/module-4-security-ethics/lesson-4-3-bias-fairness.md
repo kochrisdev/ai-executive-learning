@@ -38,11 +38,26 @@ When an AI-assisted decision causes harm — who is responsible?
 The vendor is responsible for the model's behavior within their stated scope.
 **You are responsible for the decisions you make using that model.**
 
-Regulatory frameworks (EU AI Act, emerging US standards) are moving toward requiring organizations to:
-- Document high-risk AI use cases
-- Conduct bias audits before deployment
-- Maintain human oversight for consequential decisions
-- Provide recourse mechanisms when AI decisions affect individuals
+### EU AI Act — Now in Force (2026)
+
+The EU AI Act is no longer theoretical. The **August 2, 2026 deadline** marks full compliance requirements for high-risk AI systems. As an executive with EU customers or operations, you need to know:
+
+| Risk Level | Examples | Requirement |
+|---|---|---|
+| **Unacceptable (Banned)** | Social scoring, real-time biometric surveillance | Cannot be deployed in the EU |
+| **High Risk** | AI in hiring, credit, education, critical infrastructure | Must register in EU database, maintain risk management systems, full documentation |
+| **Limited Risk** | Chatbots, AI-generated content | Transparency obligations (disclose AI to users) |
+| **Low / No Risk** | AI spam filters, recommendation systems | No specific requirements |
+
+**Penalties:** Non-compliance with high-risk requirements → up to €15M or 3% of global revenue. Prohibited practices → up to €35M or 7% of global revenue.
+
+**Questions every executive should be able to answer:**
+1. Which of our products or services have EU customers?
+2. Which AI components in those products meet the Act's definition of a "high-risk AI system"?
+3. Is AI used in any employment, credit, or critical infrastructure decisions that affect EU persons?
+4. Do we have a designated AI compliance owner?
+
+Regulatory frameworks are also evolving in the US and UK — the direction of travel is toward more accountability, not less.
 
 ---
 

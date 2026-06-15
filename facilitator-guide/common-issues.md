@@ -39,15 +39,22 @@
 
 ---
 
-## Runway / Luma Issues
+## Video Tool Issues (2026 Update)
 
-### "Video generation is taking too long"
+> **Note:** Sora was discontinued in March 2026. Do not reference Sora in demos. Use Runway Gen-4.5 or Veo 3.1 instead.
+
+### "Runway Gen-4.5 video generation is taking too long"
 - 30–120 seconds is normal — move to another tool while waiting
-- Reduce clip length to 5 seconds for faster generation
+- Reduce clip length to 5 seconds for faster generation during demos
+- Runway free tier has limited credits — have a pre-rendered example ready
 
-### "Free tier won't let me generate"
-- Runway free tier has 125 credits — should be enough for 2–3 short clips
-- Have a pre-rendered example ready to show if credits run out
+### "Veo 3.1 (Google) access issues"
+- Veo 3.1 access is via Google AI Studio or Vertex AI — requires a Google account
+- Free credits available on first sign-up
+- If access is problematic, default to Runway Gen-4.5 which has a simpler web interface
+
+### "Participant wants to use Sora"
+- Sora was discontinued in March 2026. Redirect to Runway Gen-4.5 (most comparable to Sora for professional creative work) or Veo 3.1 (higher quality output)
 
 ---
 
@@ -64,6 +71,19 @@
 - Focus on strategy content (Phase 5) which has no tool dependency
 
 ---
+
+## Agent Mode Questions (New for 2026)
+
+### "Can I let the AI agent control my real email/calendar?"
+- Agent modes (ChatGPT Operator, Claude Agent Mode, Gemini Spark) can access real accounts
+- For the workshop: demo on a sandbox or personal account, not corporate systems
+- Remind participants: check your AI policy before enabling agents on corporate accounts
+- Best first use: read-only access (research, summarization) before write access (sending, filing)
+
+### "Is agentic AI safe to use at work?"
+- Yes, with appropriate governance — the same way any tool with system access requires review
+- Key principle: minimum necessary access; human approval for irreversible actions; logging
+- Redirect to the AI policy template and Module 4 governance content for specifics
 
 ## Participant Issues
 

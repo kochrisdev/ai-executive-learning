@@ -33,15 +33,31 @@ By the end of this phase, participants will:
 
 ---
 
-## Key Tools in This Phase
+## Key Tools in This Phase (June 2026)
 
 | Tool | Category | Best For |
 |---|---|---|
-| Make.com | Automation platform | Connect apps, trigger AI actions, build workflows |
-| Fireflies.ai | Meeting intelligence | Auto-record, transcribe, summarize, extract action items |
-| Numerous AI | Spreadsheet AI | AI functions inside Google Sheets or Excel |
+| **Make.com** | Automation platform | Visual no-code automation; 1,000+ integrations; best for non-technical executives |
+| **n8n** | Automation platform (open-source) | Self-hostable; AI-native agent workflows; best for regulated industries or engineering-adjacent teams |
+| **Fireflies.ai** | Meeting intelligence | Auto-record, transcribe, summarize, extract action items |
+| **Numerous AI** | Spreadsheet AI | AI functions inside Google Sheets or Excel |
+| **Google NotebookLM** | Knowledge management | Upload document sets and create a queryable knowledge base |
+| **Gemini Daily Brief** | Executive AI assistant | Personalized daily digest from inbox, calendar, and tasks |
 | Comet | Browser automation | AI-assisted web tasks and form filling |
 | Emily (Chrome ext.) | Browser AI | Summarize pages, draft replies in-browser |
+
+### Make.com vs n8n: Which to Use?
+
+Both are excellent. Choose based on your context:
+
+| Factor | Make.com | n8n |
+|---|---|---|
+| Technical skill required | Low (visual) | Medium |
+| Best for | Non-technical executives and teams | Teams with some technical appetite or IT involvement |
+| Data privacy | Cloud-hosted | Self-hostable — data never leaves your servers |
+| AI-native features | Improving rapidly | Strong AI agent orchestration built-in |
+| Cost at scale | Per-operation pricing | Self-hosted: unlimited at infrastructure cost |
+| Recommended for this workshop | Yes (easier to demo live) | Recommended as follow-up for regulated industries |
 
 ---
 

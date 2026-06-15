@@ -32,14 +32,25 @@ By the end of this phase, participants will:
 
 ---
 
-## Key Tools in This Phase
+## Key Tools in This Phase (June 2026)
 
 | Tool | Category | Best For |
 |---|---|---|
-| OpenAI GPT Builder | Custom agent | Build specialized AI assistants without coding |
-| Claude Projects | Custom context | Persistent document context for ongoing work |
-| Genspark | Ideation AI | Strategic planning, scenario generation, research synthesis |
+| **OpenAI GPT Builder** | Custom agent | Build specialized AI assistants without coding; share via GPT Store |
+| **Claude Projects** | Custom context | Persistent document context; 1M token window handles entire document sets |
+| **Google NotebookLM** | Knowledge base agent | Team knowledge repository with AI Q&A; enterprise-grade data security |
+| **Genspark** | Ideation AI | Strategic planning, scenario generation, research synthesis |
+| **Perplexity Spaces** | Collaborative research | Shared AI research workspaces for teams |
 | Deepseek | Research AI | Deep research and complex analysis tasks |
+
+### What's New: Agentic Capabilities in 2026
+
+Custom GPTs and Claude Projects have evolved significantly:
+
+- **GPT Actions**: Custom GPTs can now call external APIs — connect your agent to your CRM, databases, or internal tools without engineering resources
+- **Claude's Extended Thinking**: For complex strategy or analytical tasks, Claude can now be prompted to "think step by step" visibly before answering — useful for high-stakes decisions
+- **Persistent Memory**: Both ChatGPT and Claude now maintain memory across sessions, meaning your agents get smarter about your business context over time
+- **Team Sharing**: Custom GPTs and Claude Projects can be shared with your team — one well-built agent can scale across an entire function
 
 ---
 

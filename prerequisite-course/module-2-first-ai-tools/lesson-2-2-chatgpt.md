@@ -4,19 +4,31 @@
 
 ---
 
-## Interface Walkthrough
+## Interface Walkthrough (June 2026)
 
 When you open ChatGPT, you'll see:
 
-- **Left sidebar:** Your conversation history, organized by date
+- **Left sidebar:** Your conversation history, organized by date; Projects for grouped workspaces
 - **Center:** The chat window
-- **Bottom:** The input box where you type prompts
-- **Top right:** Your account and settings
+- **Bottom:** The input box — supports text, voice, file upload, image, and screen share
+- **Top right:** Model selector (GPT-4o, o3 reasoning, or custom GPTs)
 
 Key settings to configure first:
 1. Click your name (bottom left) → **Customize ChatGPT**
 2. Add context about yourself: your role, your industry, how you want responses formatted
 3. This context is injected into every conversation automatically
+
+### New in 2026: Model Selection Matters
+
+ChatGPT now lets you choose your model for each conversation:
+
+| Model | Best For |
+|---|---|
+| **GPT-4o** | Fast, general-purpose — writing, summarizing, brainstorming |
+| **o3 (reasoning)** | Complex multi-step problems, financial analysis, logic-heavy tasks |
+| **o3-mini** | Faster, cheaper reasoning for simpler structured tasks |
+
+For most executive tasks, GPT-4o is sufficient. Use o3 when you need the model to think through a complex problem step-by-step.
 
 ---
 
@@ -76,13 +88,31 @@ This means over time, ChatGPT becomes more useful as it accumulates context abou
 
 ---
 
+## New in 2026: Agent Mode (OpenAI Operator)
+
+ChatGPT's Agent Mode (also available via the standalone Operator product) can now control your browser autonomously:
+
+- Ask it to "research the top 5 competitors in our space and compile a summary table"
+- It opens a browser, navigates sites, extracts information, and returns a structured report
+- Useful for: competitive research, form submissions, multi-step web tasks
+- **Caution:** Always review what actions an agent is taking before enabling it on sensitive accounts
+
+This is a significant capability shift — AI is moving from "answer questions" to "take actions."
+
 ## The GPT Store: Pre-Built Assistants
 
 ChatGPT's GPT Store contains thousands of pre-built AI assistants:
 
 - Click "Explore GPTs" in the left sidebar
-- Useful for executives: **Consensus** (research papers), **Canva** (design), **Diagrams** (visual flowcharts), **Scholar AI** (academic research)
+- Useful for executives: **Consensus** (research papers), **Canva** (design), **Diagrams** (visual flowcharts), **Scholar AI** (academic research), **Perplexity** (live search)
 - In the Deep Dive, you will build your own custom GPT — this is the store where it would live
+
+## Projects: Persistent Workspaces
+
+ChatGPT Projects (like Claude's Projects) let you create persistent workspaces:
+- Upload documents that persist across conversations
+- Maintain a custom system prompt for that project
+- Ideal for: ongoing strategic initiatives, client work, or a dedicated "research assistant" project
 
 ---
 

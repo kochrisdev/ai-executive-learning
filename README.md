@@ -60,17 +60,22 @@ ai-executive-learning/
 
 ---
 
-## Tools Covered
+## Tools Covered (June 2026)
 
 | Category | Tools |
 |---|---|
-| Conversational AI | ChatGPT (GPT-4o), Claude, Gemini |
-| Research | Perplexity AI, Genspark |
-| Visual & Video | Runway ML, Luma AI, Phot.ai, Canva AI, Topaz Labs |
-| Audio & Voice | Suno, Wispr Flow |
-| Automation | Make.com, Fireflies.ai, Numerous AI |
-| Agents & Custom GPTs | OpenAI GPT Builder, Comet, Emily |
-| Content & Social | Supergrow, Simplified |
+| **Conversational AI** | ChatGPT (GPT-4o, o3), Claude (Opus 4.8, Pro/Max), Gemini 2.5 Pro |
+| **Research & Knowledge** | Perplexity AI (Deep Research), Google NotebookLM, Genspark |
+| **Image Generation** | Canva AI, Phot.ai, Adobe Firefly |
+| **Video Generation** | Veo 3.1 (Google), Runway Gen-4.5, Kling 3.0, Seedance 2.0, Synthesia |
+| **Audio & Voice** | Suno, Wispr Flow |
+| **Automation** | Make.com, n8n, Fireflies.ai, Numerous AI |
+| **Agentic AI** | Claude Agent Mode, ChatGPT Operator, Gemini Spark |
+| **Custom Agents** | OpenAI GPT Builder, Claude Projects, Perplexity Spaces |
+| **Microsoft Ecosystem** | Microsoft 365 Copilot (with Agent Mode) |
+| **Content & Social** | Supergrow, Simplified |
+
+> **Note:** Sora (OpenAI) was discontinued in March 2026. The recommended video tools are now Veo 3.1 and Runway Gen-4.5.
 
 ---
 

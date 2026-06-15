@@ -53,11 +53,34 @@ Where to go with concerns:
 
 ---
 
+## Agentic AI: New Policy Territory (2026)
+
+The rise of agent mode in ChatGPT, Claude, and Gemini creates a new policy challenge: AI that takes actions, not just answers questions. Your policy must address:
+
+- **Which actions agents are permitted to take** on behalf of employees (e.g., browsing is OK; submitting forms is not without human approval)
+- **Logging requirements** for agentic actions — if an AI agent files a document or sends a communication, there should be a record
+- **Scope limits** — agents should have the minimum access needed; not your full email or calendar unless specifically required
+
+Add a section to your policy: **"Agentic AI Usage"** with clear boundaries on what autonomous actions are and are not permitted.
+
+## EU AI Act Compliance Checklist
+
+If your organization has EU customers or operations, add these governance items:
+
+- [ ] AI system inventory: documented list of all AI tools in use with risk classification
+- [ ] Designated AI compliance owner with executive sponsor
+- [ ] High-risk AI use cases identified and registered if required
+- [ ] Human oversight mechanisms in place for consequential decisions
+- [ ] Transparency disclosures implemented where required (chatbots, AI-generated content)
+
+**August 2, 2026** is the full compliance deadline for high-risk systems. If you haven't started, start now.
+
 ## Policy Update Cadence
 
 Revisit your AI policy:
-- When a major new tool is released or adopted by your team
+- When a major new tool is released or adopted by your team (Claude Opus 4.8, GPT o3, Gemini Spark — all released in 2026)
 - When a significant AI incident occurs (internally or publicly)
-- At minimum every 6 months — the AI landscape changes fast
+- When new regulatory requirements come into force
+- At minimum every **4 months** in 2026 — the AI landscape is changing faster than before
 
 A good policy is a living document, not a filed-and-forgotten compliance artifact.

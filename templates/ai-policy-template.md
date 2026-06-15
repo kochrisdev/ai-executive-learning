@@ -96,9 +96,58 @@ Submit to [Name / channel] — this policy is reviewed every 6 months
 
 ---
 
-## 7. Acknowledgment
+## 6. Agentic AI Usage (New — 2026)
+
+AI agent modes (ChatGPT Operator, Claude Agent Mode, Gemini Spark) can take autonomous actions on your behalf. This requires additional governance:
+
+**Permitted agentic actions (examples — customize for your team):**
+- Web research and information gathering
+- Drafting and formatting documents
+- Scheduling assistance via calendar read access
+
+**Agentic actions requiring human approval before execution:**
+- Sending any external communication (email, message)
+- Submitting any form or transaction
+- Accessing or modifying financial systems
+- Any irreversible action
+
+**Logging:** All significant agentic actions should be logged. If an AI agent sends a communication or files a document on your behalf, there must be a record.
+
+**Scope limits:** AI agents should have the minimum access required. Do not grant full email/calendar/CRM access unless specifically needed for an approved workflow.
+
+---
+
+## 7. EU AI Act Compliance (If Applicable)
+
+For organizations with EU customers or operations:
+
+- [ ] AI system inventory maintained and current
+- [ ] High-risk AI use cases identified and assessed
+- [ ] Designated AI compliance owner: [Name]
+- [ ] Human oversight mechanisms in place for high-risk decisions
+- [ ] Transparency disclosures implemented (chatbots, AI-generated content)
+- [ ] Compliance review scheduled before August 2, 2026 deadline
+
+---
+
+## 8. Reporting and Questions
+
+**Questions about approved tools or use cases:**
+Contact [Name] at [email]
+
+**Suspected data exposure or security incident:**
+Contact IT Security immediately at [email / phone]
+Also notify your manager within 24 hours
+
+**Policy feedback or update requests:**
+Submit to [Name / channel] — this policy is reviewed every **4 months**
+
+---
+
+## 9. Acknowledgment
 
 By using AI tools for work purposes, team members confirm they have read and understood this policy.
 
 *Last updated: [Date]*
 *Owner: [Name, Title]*
+*Next review: [Date + 4 months]*

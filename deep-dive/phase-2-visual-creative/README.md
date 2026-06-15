@@ -32,19 +32,31 @@ By the end of this phase, participants will:
 
 ---
 
-## Key Tools in This Phase
+## Key Tools in This Phase (June 2026)
 
-| Tool | Category | Best For |
-|---|---|---|
-| Canva AI | Image / Design | Professional graphics, presentations, social content |
-| Phot.ai | Image | Photo editing, background removal, enhancement |
-| Adobe Firefly | Image | Brand-safe image generation integrated with Adobe |
-| Runway ML | Video | Short video generation and editing from text |
-| Luma AI | Video | Realistic video generation from images or text |
-| Synthesia | Video | AI avatar presenter videos for training or comms |
-| Suno | Audio | AI-generated music for video or presentation backgrounds |
-| Wispr Flow | Voice | Voice-to-text dictation for any AI tool |
-| Topaz Labs | Image / Video | AI upscaling and enhancement of existing media |
+| Tool | Category | Best For | Status |
+|---|---|---|---|
+| Canva AI | Image / Design | Professional graphics, presentations, social content | Current |
+| Phot.ai | Image | Photo editing, background removal, enhancement | Current |
+| Adobe Firefly | Image | Brand-safe image generation integrated with Adobe | Current |
+| **Veo 3.1** (Google) | Video | Highest-quality video generation; native audio sync; 4K 60fps | **New — recommended** |
+| **Runway Gen-4.5** | Video | Professional workflow: camera control, structured prompting | Current — best for control |
+| **Kling 3.0** | Video | Best value for high-volume iteration | Current |
+| **Seedance 2.0** | Video | Strong in blind creator tests; excellent image-to-video | New |
+| ~~Sora~~ | Video | ~~AI video generation~~ | **Discontinued March 2026** |
+| Synthesia | Video | AI avatar presenter videos for training or comms | Current |
+| Suno | Audio | AI-generated music for video or presentation backgrounds | Current |
+| Wispr Flow | Voice | Voice-to-text dictation for any AI tool | Current |
+| Topaz Labs | Image / Video | AI upscaling and enhancement of existing media | Current |
+
+### 2026 Video Landscape Note
+
+OpenAI discontinued Sora in March 2026. The current market leaders are:
+- **Veo 3.1** (Google) — best quality and technical capability; generates synchronized audio natively
+- **Runway Gen-4.5** — best for professional creative workflows where control matters
+- **Kling 3.0** — best value for iterative, high-volume production
+
+For most executive use cases (explainer clips, presentation video inserts, social content), Runway Gen-4.5 or Veo 3.1 are the recommended starting points.
 
 ---
 

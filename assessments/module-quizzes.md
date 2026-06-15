@@ -17,6 +17,17 @@
 
 ---
 
+**1b.** As of June 2026, which statement about AI agent modes is TRUE?
+
+- A) Only ChatGPT has an agent mode that can control a browser autonomously
+- B) Agent modes are still experimental and not available to regular subscribers
+- C) ChatGPT, Claude, and Gemini all have agent modes that can take autonomous browser actions
+- D) Agent modes require an enterprise license and are not available to individual users
+
+**Answer:** C
+
+---
+
 **2.** An AI tool "hallucinating" means:
 
 - A) The model requires more processing time than usual
@@ -144,6 +155,28 @@
 
 ---
 
+**12b.** The EU AI Act's full high-risk compliance deadline is:
+
+- A) January 1, 2026
+- B) August 2, 2026
+- C) December 31, 2026
+- D) The EU AI Act has not yet set a deadline
+
+**Answer:** B
+
+---
+
+**12c.** Under the EU AI Act, which of the following would be classified as HIGH RISK and require registration and risk management documentation?
+
+- A) An AI spam filter for internal email
+- B) An AI tool used to screen and rank job applicants
+- C) An AI chatbot used to answer FAQ questions on your website
+- D) An AI tool that generates first drafts of blog posts
+
+**Answer:** B
+
+---
+
 **13.** An AI-assisted hiring tool shows significantly lower recommendation rates for candidates from a particular demographic group. This is an example of:
 
 - A) Normal model behavior that cannot be changed
@@ -212,4 +245,43 @@
 
 ---
 
-*Answer key: 1-B, 2-B, 3-B, 4-B, 5-C, 6-C, 7-B, 8-C, 9-B, 10-C, 11-B, 12-C, 13-C, 14-C, 15-B, 16-B, 17-C*
+*Answer key: 1-B, 1b-C, 2-B, 3-B, 4-B, 5-C, 6-C, 7-B, 8-C, 9-B, 10-C, 11-B, 12-C, 12b-B, 12c-B, 13-C, 14-C, 15-B, 16-B, 17-C*
+
+---
+
+## 2026 Update Questions (Bonus)
+
+**18.** Which AI video generation tool was discontinued in March 2026?
+
+- A) Runway ML
+- B) Veo 3.1
+- C) Sora (OpenAI)
+- D) Kling
+
+**Answer:** C
+
+---
+
+**19.** Claude Opus 4.8, released in May 2026, achieved what score on a 542-task real-world web automation benchmark?
+
+- A) 54%
+- B) 72%
+- C) 84%
+- D) 96%
+
+**Answer:** C
+
+---
+
+**20.** In the updated AI Maturity Model for 2026, Level 5 (Agentic Enterprise) is characterized by:
+
+- A) Using ChatGPT daily for personal productivity
+- B) AI agents operating autonomously across workflows within defined governance guardrails
+- C) Having a dedicated AI team and custom-built models
+- D) Deploying AI in customer-facing products
+
+**Answer:** B
+
+---
+
+*Updated answer key (bonus): 18-C, 19-C, 20-B*

@@ -4,15 +4,18 @@
 
 ---
 
-## The Three Options
+## The Four Options (Updated for 2026)
 
-Every AI investment decision ultimately resolves to one of three approaches:
+Every AI investment decision now resolves to one of four approaches — a fourth category has emerged:
 
 | Approach | What It Means | Time to Value | Cost | Control |
 |---|---|---|---|---|
 | **Buy** | Use off-the-shelf SaaS AI tools | Days | Low–Medium subscription | Low |
+| **Automate** | Connect AI tools to your systems using no-code platforms (Make.com, n8n) | Days–Weeks | Low–Medium | Medium |
 | **Partner** | Integrate AI via your existing software vendors or system integrators | Weeks–Months | Medium | Medium |
 | **Build** | Develop custom AI using model APIs and your own data | Months–Years | High | High |
+
+The **Automate** category is new and highly valuable for executives in 2026 — it sits between "use a tool" and "build something custom" and unlocks agentic workflows without requiring engineering resources.
 
 ---
 
@@ -24,7 +27,21 @@ Buy when:
 - You do not have proprietary data that changes the answer
 - The tool already exists and works well
 
-**Examples:** ChatGPT for writing, Fireflies for meeting notes, Make.com for automation, Runway for video
+**Examples:** ChatGPT for writing, Claude for document analysis, Fireflies for meeting notes, Runway Gen-4.5 or Veo 3.1 for video, Perplexity for research
+
+## When to Automate (The New Sweet Spot for 2026)
+
+Automate when:
+- You want AI to act on triggers across multiple tools without manual initiation
+- You need AI to connect information between systems (e.g., CRM → AI summary → Slack)
+- You want to eliminate repetitive human steps in a workflow
+- You have no engineering resources but a clear process to automate
+
+**Examples:** Make.com to connect Gmail → Claude → Slack; n8n to process form submissions with AI enrichment; Zapier AI for simple multi-app workflows
+
+**n8n vs Make.com in 2026:**
+- **Make.com:** Best visual interface, 1,000+ integrations, easiest for non-technical executives
+- **n8n:** Open-source, self-hostable (important for regulated industries), stronger AI-native agent capabilities, best for IT/engineering-adjacent teams
 
 ---
 
