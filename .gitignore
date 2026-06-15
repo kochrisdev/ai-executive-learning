@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Participant submissions (never commit real participant data)
+submissions/
+participant-data/
+*-submission.md
+*-prework-completed.md
+
+# Sensitive documents uploaded as knowledge files
+knowledge-files/
+uploads/
+
+# Local customizations
+*.local.md
+local-*
