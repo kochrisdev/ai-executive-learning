@@ -1,6 +1,6 @@
 # AI Executive Learning Program
 
-> A comprehensive, two-stage learning program that takes executives from AI-curious to AI-proficient — based on the [Outskill AI Tools Deep Dive](https://www.outskill.com/ai-tools-deepdive) framework.
+> A comprehensive, two-stage learning program that takes executives from AI-curious to AI-proficient framework.
 
 ---
 
