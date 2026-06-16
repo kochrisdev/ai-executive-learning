@@ -6,18 +6,20 @@
 
 ## What Is an AI North Star?
 
-Your AI North Star is a simple, specific statement of what success looks like for your function in the next 90 days. It is not a technology vision — it is a business outcome statement.
+Your AI North Star is a simple, specific statement of what success looks like for your initiative in the next 90 days. It is not a technology vision — it is an impact outcome statement.
 
-**Examples:**
-- "Every member of my marketing team can produce campaign briefs and content drafts using AI, cutting our agency dependency by 30% within 90 days."
-- "Our sales team uses AI-assisted call prep and follow-up drafting, increasing average deal velocity by 15% this quarter."
-- "My finance function automates 3 recurring reporting workflows, freeing 10 hours per analyst per month."
+**Examples for DreamLabs Fellows:**
+- "Within 90 days, my team uses AI for all grant writing first drafts, reducing proposal preparation time by 60% so we can apply to 3× more funding opportunities."
+- "Within 90 days, we have an AI-powered community information tool that answers questions about our health program in Burmese, reaching 500+ community members who previously had no access to our staff."
+- "Within 90 days, we automate our monthly impact reporting, freeing 8 hours per month that we redirect to field work in [community]."
+- "Within 90 days, every member of our 4-person team uses AI weekly for at least one core task, and we have documented 3 hours of time savings per person per week."
 
 Notice what these statements have in common:
-- They name the team (not just "the company")
+- They name the team or initiative (specific, not vague)
 - They specify a behavior change (what people will do differently)
-- They include a measurable outcome
+- They include a measurable impact outcome — not just AI usage, but what that enables
 - They have a time horizon
+- They connect back to the mission: serving communities in Myanmar
 
 ---
 
@@ -46,4 +48,10 @@ The difference between AI programs that succeed and those that fade is executive
 
 ## Complete Your AI Opportunity Canvas
 
-Before attending the Deep Dive, complete the [AI Opportunity Canvas](../../templates/ai-opportunity-canvas.md) for your function. This is your working document throughout the program and your primary output from the 90-day sprint.
+Before attending the Innovation Studio Deep Dive, complete the [AI Opportunity Canvas](../../templates/ai-opportunity-canvas.md) for your initiative. This is your working document throughout the program and your primary output from the 90-day sprint.
+
+The canvas will be reviewed by your DreamLabs mentor during the Deep Dive — the more specific and honest you are, the more useful the feedback will be.
+
+---
+
+*DreamLabs Foundation Innovation Studio — [dreamlabs.foundation](https://dreamlabs.foundation)*

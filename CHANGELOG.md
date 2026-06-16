@@ -4,6 +4,30 @@ All notable curriculum updates are documented here.
 
 ---
 
+## [3.0.0] — June 2026 — DreamLabs Foundation Branding
+
+### Rebranded as DreamLabs Foundation Innovation Studio AI Mastery Program
+
+The entire curriculum has been rebranded and realigned to the [DreamLabs Foundation](https://dreamlabs.foundation) Innovation Studio, a Myanmar-based initiative empowering the next generation of impact-makers.
+
+**Key changes:**
+
+- Program renamed: "AI Executive Learning Program" → "DreamLabs Foundation Innovation Studio — AI Mastery Program"
+- Deep Dive renamed: "AI Tools Deep Dive" → "Innovation Studio Deep Dive"
+- Audience reframed: "executives" → "Fellows", "impact-makers", "young leaders"
+- All examples, use cases, and exercises now reference social enterprises, NGOs, community initiatives, and Myanmar-specific context
+- Prompt library completely rewritten for impact-maker use cases (grant proposals, community communications, impact reports, research synthesis)
+- AI North Star examples updated to reflect social impact outcomes
+- ROI framing updated to "Impact ROI" — connecting AI efficiency to community reach
+- DreamLabs brand language woven throughout: "impact-makers", "Fellows", "mentors", "sustainable solutions", "positive change"
+- DreamLabs mission and vision quoted in templates and key documents
+- Facilitator guide updated to reflect DreamLabs audience and facilitation principles
+- All documents carry DreamLabs footer: `dreamlabs.foundation`
+
+**Files changed:** README.md, all module READMEs (6), prerequisite course README, deep dive README, 9 lesson files, all 5 phase READMEs, all 4 templates, assessments, facilitator guide (3 files), run sheet, pre-work assignment, CHANGELOG
+
+---
+
 ## [2.0.0] — June 2026
 
 ### Major Update: 2026 AI Landscape Refresh

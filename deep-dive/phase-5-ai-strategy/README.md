@@ -91,14 +91,19 @@ Each participant presents their plan using this structure:
 
 ---
 
-## Accountability Pairing
+## Accountability Pairing — The DreamLabs Way
 
-At the close of the program:
-- Each participant is paired with one peer from the cohort
+The DreamLabs Foundation is built on the power of community and peer support. At the close of the program:
+- Each Fellow is paired with one peer from the cohort
 - Pairs commit to a 30-day check-in call
-- Each pair shares: What did you deploy? What's blocking you? What do you need?
+- Each pair shares: What did you deploy? What impact did it create? What's blocking you? What do you need?
+- Pairs also celebrate wins — document a real impact story to share back with the DreamLabs community
 
-Exchange contact information and schedule the call before leaving.
+Exchange contact information and schedule the call before leaving. These peer relationships often become some of the most valuable connections in a Fellow's DreamLabs journey.
+
+---
+
+*DreamLabs Foundation Innovation Studio — [dreamlabs.foundation](https://dreamlabs.foundation)*
 
 ---
 

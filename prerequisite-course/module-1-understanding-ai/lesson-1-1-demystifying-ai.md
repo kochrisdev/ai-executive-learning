@@ -63,6 +63,12 @@ A useful rule: treat every AI output as a **strong first draft from a very fast 
 
 ---
 
+## Why This Matters for Myanmar's Impact-Makers
+
+The most powerful aspect of AI for purpose-driven leaders is the asymmetry it creates. An AI-equipped young leader running a community health initiative, an education venture, or a sustainable agriculture project can now research, write, plan, and communicate at a scale that previously required large teams or significant funding.
+
+In Myanmar's context, where resources are often constrained and challenges are vast, AI tools are not luxuries — they are force multipliers for the kind of change DreamLabs Fellows are here to create.
+
 ## Key Takeaway
 
-AI is not sentient, not infallible, and not a threat to replace executive leadership. It is a powerful tool for accelerating knowledge work — and right now, the executives who learn to direct it well will have a significant advantage over those who do not.
+AI is not sentient, not infallible, and not a threat to replace human leadership and judgment. It is a powerful tool for accelerating meaningful work — and right now, the impact-makers who learn to direct it well will be able to do more, reach further, and create change faster than those who do not.

@@ -1,15 +1,20 @@
 # AI Opportunity Canvas
+### DreamLabs Foundation Innovation Studio
 
-*Complete this canvas before the Deep Dive. Bring a printed or digital copy to the workshop.*
+*Complete this canvas before the Innovation Studio Deep Dive. Bring a printed or digital copy to the workshop. Your DreamLabs mentor will review this with you during Phase 5.*
+
+> "Transform challenges into opportunities for positive change." — DreamLabs Foundation
 
 ---
 
 ## About You
 
 **Name:**
-**Title / Function:**
+**Initiative / Organization:**
+**Impact Area:** (e.g., education, health, environment, agriculture, youth development, advocacy)
+**Community You Serve:** (location or demographic in Myanmar)
 **Team size:**
-**Industry:**
+**DreamLabs Program:** (Fellow / Mentor / Partner)
 **Date:**
 
 ---
@@ -88,11 +93,11 @@ Rank your top 3 from the task inventory above:
 
 ## Section 3: Your AI North Star
 
-Complete this sentence (be specific and measurable):
+Complete this sentence (be specific and measurable — connect AI adoption to actual impact):
 
-> "Within 90 days, ________________________________ enabling ________________________________ for my ________________________________."
+> "Within 90 days, ________________________________ enabling ________________________________ for ________________________________ [community/beneficiaries]."
 
-**Example:** "Within 90 days, my marketing team will use AI for all first-draft content creation, enabling a 40% reduction in time-to-publish for our weekly content calendar."
+**Example:** "Within 90 days, our team uses AI for all grant proposal first drafts and impact reports, enabling us to apply to 3× more funding opportunities and spend 8 more hours per month on direct community fieldwork."
 
 **Your North Star:**
 
@@ -136,4 +141,9 @@ Complete this sentence (be specific and measurable):
 
 ## Notes and Observations
 
-*(Use this space during the Deep Dive for notes, prompt ideas, and follow-up actions)*
+*(Use this space during the Innovation Studio Deep Dive for notes, prompt ideas, and follow-up actions)*
+
+---
+
+*DreamLabs Foundation Innovation Studio — [dreamlabs.foundation](https://dreamlabs.foundation)*
+*Empowering Myanmar's Next Generation of Impact-makers*

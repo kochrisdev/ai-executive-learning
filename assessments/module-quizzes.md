@@ -1,6 +1,7 @@
 # Module Quizzes — Knowledge Checks
+### DreamLabs Foundation Innovation Studio — AI Mastery Program
 
-*These quizzes may be administered at the start of each module (pre-check) or end (post-check). Use to identify learning gaps and measure retention.*
+*These quizzes may be administered at the start of each module (pre-check) or end (post-check). Use to identify learning gaps and measure retention among DreamLabs Fellows.*
 
 ---
 

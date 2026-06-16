@@ -1,7 +1,8 @@
 # Pre-Work Assignment
+### DreamLabs Foundation Innovation Studio — AI Mastery Program
 
-**Due:** 48 hours before the Deep Dive
-**Submit to:** Your facilitator (email or learning portal)
+**Due:** 48 hours before the Innovation Studio Deep Dive
+**Submit to:** Your DreamLabs facilitator (email or learning portal)
 **Time required:** ~30 minutes
 
 ---
@@ -20,26 +21,28 @@ List every AI tool currently being used across your team, whether officially san
 
 ---
 
-## Part 2: Your Top 3 Pain Points
+## Part 2: Your Top 3 Impact Bottlenecks
 
-Identify 3 workflows in your function that you believe AI could meaningfully improve. Be specific — not "communications" but "drafting the weekly leadership update email takes me 45 minutes every Friday."
+Identify 3 workflows or tasks in your initiative where AI could meaningfully help. Be specific — not "writing" but "drafting our monthly community impact report takes 6 hours and delays our team's fieldwork every month."
 
-**Pain Point 1:**
+Think about: what eats your time but isn't your highest-value work? What tasks, if automated or accelerated, would let you spend more time in the community or on your core mission?
+
+**Bottleneck 1:**
 - Description:
 - Time cost:
-- Why it's frustrating:
+- How it limits your impact:
 - Ideal outcome if AI could help:
 
-**Pain Point 2:**
+**Bottleneck 2:**
 - Description:
 - Time cost:
-- Why it's frustrating:
+- How it limits your impact:
 - Ideal outcome if AI could help:
 
-**Pain Point 3:**
+**Bottleneck 3:**
 - Description:
 - Time cost:
-- Why it's frustrating:
+- How it limits your impact:
 - Ideal outcome if AI could help:
 
 ---
@@ -72,12 +75,18 @@ What are your 2 most important unanswered questions about AI for your business?
 
 By submitting this assignment, I confirm:
 
-- [ ] I have completed Modules 1–5 of the Prerequisite Course
+- [ ] I have completed Modules 1–5 of the AI Foundations Course
 - [ ] I have working accounts in ChatGPT Plus, Claude Pro, and Perplexity
-- [ ] I have reviewed my organization's AI usage policy
 - [ ] I have completed my AI Opportunity Canvas
-- [ ] I understand that I will be expected to work on real problems during the Deep Dive
+- [ ] I understand that I will be expected to work on my real initiative during the Deep Dive
+- [ ] I am excited to contribute to Myanmar's community of impact-makers
 
 **Name:**
-**Function / Role:**
+**Initiative / Organization:**
+**Impact Area:** (e.g., education, health, environment, agriculture, youth development)
+**DreamLabs Program:** (Fellow / Mentor / Partner)
 **Date submitted:**
+
+---
+
+*DreamLabs Foundation Innovation Studio — [dreamlabs.foundation](https://dreamlabs.foundation)*

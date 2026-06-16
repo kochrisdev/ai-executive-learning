@@ -1,13 +1,14 @@
 # Module 1 Exercise — Map Your Own AI Opportunities
+### DreamLabs Foundation Innovation Studio
 
 **Time:** ~10 minutes
-**Submit to:** Your facilitator or learning portal before the Deep Dive
+**Submit to:** Your DreamLabs facilitator or learning portal before the Deep Dive
 
 ---
 
 ## Instructions
 
-Complete the table below based on your own week. Be specific — the more concrete, the more useful this becomes during live Deep Dive exercises.
+Complete the table below based on your own initiative, venture, or daily impact work. Be specific — the more concrete, the more useful this becomes during live Innovation Studio exercises. Think about the work you are doing for Myanmar's communities and where AI could give you more time for the human parts that matter most.
 
 ---
 
@@ -54,11 +55,13 @@ Based on Part A, choose your top 3 tasks where AI could create the most value.
 
 Answer in 2–3 sentences each:
 
-1. What is your biggest concern or hesitation about using AI in your role?
+1. What is your biggest concern or hesitation about using AI in your initiative or community work?
 
-2. What would a successful outcome from the Deep Dive look like for you personally?
+2. What would a successful outcome from the Innovation Studio Deep Dive look like for your impact work?
 
-3. Is there a specific business problem or document you want to work on during the live workshop?
+3. Is there a specific challenge, initiative, or document from your work in Myanmar you want to tackle during the live workshop?
+
+4. How could AI help you reach more people, work faster, or create more sustainable impact in your area of focus?
 
 ---
 

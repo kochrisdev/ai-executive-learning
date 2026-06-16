@@ -1,14 +1,19 @@
 # 90-Day AI Adoption Plan
+### DreamLabs Foundation Innovation Studio
 
-*Complete during Phase 5 of the Deep Dive. This is your implementation roadmap.*
+*Complete during Phase 5 of the Innovation Studio Deep Dive. This is your implementation roadmap for bringing AI into your initiative and multiplying your impact.*
+
+> *"A Myanmar where young impact-makers drive sustainable development and innovation for a prosperous, inclusive future."* — DreamLabs Foundation Vision
 
 ---
 
-## Executive Summary
+## Summary
 
-**Name / Role:**
-**Function:**
-**Date of Deep Dive:**
+**Name:**
+**Initiative / Organization:**
+**Impact Area:**
+**Community Served:**
+**Date of Innovation Studio Deep Dive:**
 **AI North Star:**
 
 ---
@@ -106,15 +111,22 @@ Fill in baseline now; update at each milestone.
 
 ---
 
-## Part 5: Accountability
+## Part 5: Accountability — The DreamLabs Community
 
-**My accountability partner from this cohort:**
+**My DreamLabs accountability partner from this cohort:**
 **Name:**
+**Their initiative:**
 **Check-in date (30 days):**
 **What I committed to show them:**
 
-**My manager / sponsor knows about this plan:** Y / N
-**I will share my 90-day results with:** (name/group)
+**My DreamLabs mentor is aware of this plan:** Y / N
+**I will share my 90-day impact story with:** (DreamLabs community / cohort / mentors)
+
+*The DreamLabs Foundation community is your support network. Your success is not just yours — it contributes to building Myanmar's pipeline of AI-equipped impact-makers.*
+
+---
+
+*DreamLabs Foundation Innovation Studio — [dreamlabs.foundation](https://dreamlabs.foundation)*
 
 ---
 

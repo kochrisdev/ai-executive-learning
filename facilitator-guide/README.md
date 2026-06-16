@@ -1,6 +1,9 @@
 # Facilitator Guide
+### DreamLabs Foundation Innovation Studio — AI Mastery Program
 
-*Everything a facilitator needs to run both the Prerequisite Course and the Deep Dive successfully.*
+*Everything a DreamLabs Innovation Studio facilitator needs to deliver the AI Foundations Course and the Innovation Studio Deep Dive successfully.*
+
+> *"Empowering Myanmar's Next Generation of Impact-makers"* — DreamLabs Foundation
 
 ---
 
@@ -17,36 +20,44 @@
 
 ## Facilitator Profile
 
-This program works best with a facilitator who:
+This program works best with a DreamLabs Innovation Studio facilitator who:
 
-- Uses AI tools daily in their own professional work
+- Uses AI tools daily in their own professional work and can speak authentically about the experience
 - Can demo tools live without scripts — comfortable with things going unexpectedly
-- Understands executive audiences: high autonomy, low tolerance for theory without application
+- Understands and genuinely connects with Myanmar's impact-maker context and the DreamLabs mission
 - Can troubleshoot common technical issues (OAuth, browser extensions, API keys)
-- Has delivered live workshops to senior audiences before
+- Has delivered live workshops to motivated young audiences before
+- Believes AI is a tool for positive change, not just productivity
 
-A **co-facilitator** is strongly recommended for the Deep Dive, particularly for Phase 3 (Automation) where participants build Make.com workflows and technical support is needed while the lead instructor continues.
+A **co-facilitator** is strongly recommended for the Deep Dive, particularly for Phase 3 (Automation) where Fellows build Make.com workflows and technical support is needed while the lead instructor continues.
+
+**DreamLabs mentors** should be involved where possible — particularly in Phase 5 when Fellows present their 90-day plans and benefit from sector-specific feedback on their impact goals.
 
 ---
 
-## Key Principles for This Audience
+## Key Principles for DreamLabs Fellows
 
-**Executives are different from typical learners:**
+**DreamLabs Fellows are unique learners:**
 
-| Typical Learner | Executive |
+| Typical Learner | DreamLabs Fellow |
 |---|---|
-| Tolerates theory and context-setting | Wants application within the first 15 minutes |
-| Accepts exercises for their own sake | Needs to see direct relevance to their real work |
-| Patient with repeated instruction | Uncomfortable with content beneath their level |
-| Comfortable being a beginner | May feel exposed as a novice in front of peers |
-| Follows the schedule | May redirect the agenda if it's not serving them |
+| Motivated by grades or certification | Motivated by real-world impact on their community |
+| Generic use cases are acceptable | Myanmar-specific and mission-relevant examples resonate far more |
+| Learns comfortably in theory first | Wants to apply tools to their actual initiative immediately |
+| Individual focus | Deeply values peer community and cohort relationships |
+| Tolerates tools that feel irrelevant | Disengages if AI doesn't connect to their purpose |
 
 **What this means for facilitation:**
-- Start with value, not setup
-- Use real business examples, not generic demos
-- Move fast — executives learn by doing, not by watching
-- Make it safe to not know things: "This is new for everyone"
-- Be direct about limitations: don't oversell what AI can do
+- Anchor every session to impact: "How does this tool help you serve your community?"
+- Use Fellow's own initiatives as the subject of every exercise — not generic demos
+- Celebrate peer discoveries loudly: when a Fellow finds a powerful use case, share it with the room
+- Create psychological safety: "This is new for everyone, and that's okay"
+- Be honest about what AI cannot do — especially in community trust, relationship-building, and culturally sensitive work
+- Reference DreamLabs' mission throughout: "This is what it looks like to be an AI-equipped impact-maker"
+
+---
+
+*DreamLabs Foundation Innovation Studio — [dreamlabs.foundation](https://dreamlabs.foundation)*
 
 ---
 

@@ -1,38 +1,46 @@
-# Lesson 5.3 — ROI Framing for AI Investments
+# Lesson 5.3 — Impact ROI: Framing the Value of AI for Your Initiative
+### DreamLabs Foundation Innovation Studio
 
 **Time:** ~15 minutes
 
 ---
 
-## The Two Types of AI ROI
+## The Two Types of AI Value for Impact-Makers
 
-AI investments generate value in two distinct ways. Most organizations only measure one.
+AI creates value for impact-driven initiatives in two distinct ways. Most organizations only measure one.
 
-| ROI Type | Description | Examples |
+| Value Type | Description | Examples for Impact-Makers |
 |---|---|---|
-| **Efficiency ROI** | Doing existing work faster, cheaper, or with fewer people | 5 hours/week saved per executive; 50% reduction in first-draft time |
-| **Revenue ROI** | Creating new value, new products, or new revenue streams | AI-powered feature that increases conversion; new AI service offering |
+| **Efficiency Value** | Doing existing work faster, freeing time for deeper community engagement | 5 hours/week saved on grant writing; 50% reduction in report drafting time |
+| **Impact Multiplier** | Reaching more people, delivering better outcomes, or enabling new initiatives | AI-translated content reaching rural communities; AI-powered community Q&A tool; new program possible because admin burden reduced |
 
-Most organizations should start with Efficiency ROI — it is easier to measure, faster to realize, and builds the organizational muscle needed for Revenue ROI.
+Most initiatives should start with Efficiency Value — it is easier to measure, faster to realize, and builds the confidence and habits needed for deeper Impact Multiplier work.
 
 ---
 
-## Calculating Efficiency ROI
+## Calculating Efficiency Value
 
-Simple framework:
+Simple framework for your initiative:
 
 ```
-Hours saved per person per week × fully-loaded hourly rate × team size × 52 weeks
+Hours saved per person per week × estimated value of that time × team size × 52 weeks
 = Annual efficiency value
 ```
 
-**Example:**
-- 5 hours saved/week per executive
-- 10 executives in program
-- $200/hour fully-loaded cost
-- 5 × 10 × 200 × 52 = **$520,000 annual value**
+For impact organizations, "value of time" can be expressed as:
+- Hourly cost of the person doing the work (staff or volunteer cost)
+- Opportunity cost — what could they be doing with that time instead?
+- Grant-equivalent value — how much would a donor pay for those hours?
 
-This is conservative — it does not include speed of decision-making, quality improvements, or competitive advantages from faster execution.
+**Example:**
+- 4 hours saved/week per team member on reports and communications
+- 5-person team
+- $25/hour estimated time value
+- 4 × 5 × 25 × 52 = **$26,000/year in freed capacity**
+
+This freed capacity can be redirected to community engagement, program delivery, or scaling reach — work that creates direct impact.
+
+**For DreamLabs Fellows:** Think about how many more community members you could serve, or how many more partners you could engage, with an extra 4 hours per week.
 
 ---
 

@@ -1,8 +1,9 @@
 # Module 1: Understanding AI — What It Actually Is
+### DreamLabs Foundation Innovation Studio
 
 **Duration:** ~60 minutes
 **Format:** Reading + reflection exercise
-**Outcome:** You can explain what AI is, what it cannot do, and where your organization sits in the current landscape — without technical jargon.
+**Outcome:** You can explain what AI is, what it cannot do, and how it can serve Myanmar's impact-makers — without technical jargon.
 
 ---
 
@@ -20,7 +21,11 @@
 ## Key Questions This Module Answers
 
 - What is the difference between AI, Machine Learning, and Generative AI?
-- Why is 2024–2026 different from every previous AI hype cycle?
+- Why is 2024–2026 a genuine turning point for impact-makers and social entrepreneurs?
 - What can AI do that's genuinely useful — and what can it not do?
 - Who are the key players and what does each one offer?
-- How are peer executives actually using AI right now?
+- How are purpose-driven leaders and entrepreneurs using AI to multiply their impact?
+
+---
+
+*DreamLabs Foundation Innovation Studio — [dreamlabs.foundation](https://dreamlabs.foundation)*

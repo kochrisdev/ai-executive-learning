@@ -1,6 +1,9 @@
-# Deep Dive Run Sheet
+# Innovation Studio Deep Dive — Run Sheet
+### DreamLabs Foundation Innovation Studio
 
-*Hour-by-hour delivery guide. Times are approximate — adjust based on group energy and pace.*
+*Hour-by-hour delivery guide for DreamLabs facilitators. Times are approximate — adjust based on cohort energy and pace.*
+
+> *Keep the DreamLabs mission visible throughout: every tool, every output, every exercise is in service of empowering Myanmar's next generation of impact-makers.*
 
 ---
 
@@ -15,9 +18,9 @@
 
 ### 09:00 — Welcome and Cohort Introductions (30 min)
 **Facilitator script opening:**
-> "Welcome. Over the next 2.5 days, you won't just learn about AI — you'll use it. Every session produces something real you can deploy this week. Let's start with who's in the room."
+> "Welcome to the DreamLabs Innovation Studio AI Mastery program. Over the next 2.5 days, you won't just learn about AI — you'll use it to build something real for your initiative. This is what it looks like to be an AI-equipped impact-maker. Let's start with who's in the room."
 
-**Introductions:** Name, role, one sentence on what they hope to leave with.
+**Introductions:** Name, initiative, the community or challenge they're working on, and one sentence on what they hope to leave with.
 
 **Pre-work debrief (10 min):** Ask:
 - "Who found the tools more capable than expected? Less capable?"
@@ -159,6 +162,11 @@ Key facilitator notes:
 ---
 
 ### 12:30 — End of Program
+
+---
+
+*DreamLabs Foundation Innovation Studio — [dreamlabs.foundation](https://dreamlabs.foundation)*
+*Empowering Myanmar's Next Generation of Impact-makers*
 
 ---
 

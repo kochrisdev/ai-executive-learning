@@ -1,20 +1,41 @@
-# AI Executive Learning Program
+# DreamLabs Foundation Innovation Studio
+## AI Mastery Program for Impact-Makers
 
-> A comprehensive, two-stage learning program that takes executives from AI-curious to AI-proficient framework.
+> *Empowering Myanmar's Next Generation of Impact-makers with the AI tools to turn vision into action.*
+
+**A program of the [DreamLabs Foundation Innovation Studio](https://dreamlabs.foundation)**
 
 ---
 
-## Program Overview
+## About This Program
 
-This repository contains the complete curriculum, exercises, templates, and facilitator materials for a two-stage executive AI program:
+The DreamLabs Innovation Studio AI Mastery Program equips Fellows, mentors, and young leaders with practical AI skills to accelerate sustainable impact in Myanmar and beyond. This is not a theoretical course — every session produces a real, deployable output that Fellows can apply to their ventures, communities, and initiatives immediately.
+
+We believe AI is the most powerful tool available to the next generation of impact-makers. The leaders who learn to direct it well will do more, reach further, and create change faster.
+
+---
+
+## Program Philosophy
+
+> "Transform challenges into opportunities for positive change."
+> — DreamLabs Foundation
+
+AI tools are multipliers. In the hands of a purpose-driven leader, they compress the time between identifying a problem and delivering a solution. This program exists to put that power in the hands of Myanmar's most promising young leaders.
+
+---
+
+## Program Structure
 
 | Stage | Name | Format | Duration |
 |---|---|---|---|
-| 1 | [Prerequisite Course](./prerequisite-course/) | Self-paced | ~7.5 hrs over 1 week |
-| 2 | [AI Tools Deep Dive](./deep-dive/) | Intensive workshop | 2–3 days live |
+| 1 | [AI Foundations](./prerequisite-course/) | Self-paced | ~7.5 hrs over 1 week |
+| 2 | [Innovation Studio Deep Dive](./deep-dive/) | Intensive workshop | 2–3 days live |
 
-**Target Audience:** C-suite executives, VPs, Senior Directors
-**Philosophy:** Implementation over theory — every session produces a deployable output
+**Who This Is For:**
+- DreamLabs Fellowship Program participants (current and prospective Fellows)
+- Mentors who want to guide Fellows on AI-powered ventures
+- Young leaders and social entrepreneurs building solutions for Myanmar's challenges
+- Impact-focused professionals ready to accelerate their work with AI
 
 ---
 
@@ -23,40 +44,23 @@ This repository contains the complete curriculum, exercises, templates, and faci
 ```
 ai-executive-learning/
 ├── README.md                        ← You are here
-├── prerequisite-course/             ← Stage 1: self-paced foundations
+├── prerequisite-course/             ← Stage 1: self-paced AI foundations
 │   ├── module-1-understanding-ai/
 │   ├── module-2-first-ai-tools/
 │   ├── module-3-prompt-engineering/
 │   ├── module-4-security-ethics/
 │   ├── module-5-ai-strategy/
 │   └── module-6-prework/
-├── deep-dive/                       ← Stage 2: live workshop
+├── deep-dive/                       ← Stage 2: Innovation Studio workshop
 │   ├── phase-1-foundation/
 │   ├── phase-2-visual-creative/
 │   ├── phase-3-automation/
 │   ├── phase-4-custom-agents/
 │   └── phase-5-ai-strategy/
-├── templates/                       ← Reusable tools & canvases
-├── assessments/                     ← Quizzes and evaluations
-└── facilitator-guide/               ← Delivery instructions for trainers
+├── templates/                       ← Canvases, plans, and working documents
+├── assessments/                     ← Quizzes and learning evaluations
+└── facilitator-guide/               ← Delivery guide for Studio facilitators
 ```
-
----
-
-## Quick Start
-
-### For Executives (Learners)
-
-1. Complete the [Prerequisite Course](./prerequisite-course/README.md) in the week before the Deep Dive
-2. Submit the [Pre-Work Assignment](./prerequisite-course/module-6-prework/prework-assignment.md) 48 hours before the workshop
-3. Bring a real business problem to the Deep Dive for live exercises
-
-### For Facilitators / Learning & Development Teams
-
-1. Read the [Facilitator Guide](./facilitator-guide/README.md) first
-2. Review module-level facilitator notes in each lesson folder
-3. Customize templates in `/templates` for your organization
-4. Use assessments in `/assessments` to measure learning outcomes
 
 ---
 
@@ -81,13 +85,41 @@ ai-executive-learning/
 
 ## Learning Outcomes
 
-By completing both stages, executives will be able to:
+By completing both stages, Fellows and impact-makers will be able to:
 
 - Use AI tools independently for research, writing, and strategic analysis
-- Build and deploy a custom AI assistant scoped to their function
-- Automate at least 3 recurring workflows
-- Lead their team's AI adoption with a 90-day implementation plan
-- Evaluate AI vendors and make informed build/buy/partner decisions
+- Build and deploy a custom AI assistant tailored to their venture or initiative
+- Automate at least 3 recurring workflows — freeing time for deeper impact work
+- Lead AI adoption across their team or organization with a 90-day plan
+- Apply AI ethically and responsibly, with awareness of data governance and bias
+
+---
+
+## Quick Start
+
+### For Fellows (Learners)
+
+1. Complete the [AI Foundations Course](./prerequisite-course/README.md) in the week before the workshop
+2. Submit the [Pre-Work Assignment](./prerequisite-course/module-6-prework/prework-assignment.md) 48 hours before the workshop
+3. Bring a real initiative, venture, or community challenge to the Deep Dive for live exercises
+
+### For Mentors & Facilitators
+
+1. Read the [Facilitator Guide](./facilitator-guide/README.md) first
+2. Customize the [AI Opportunity Canvas](./templates/ai-opportunity-canvas.md) and [90-Day Plan](./templates/90-day-adoption-plan.md) for your cohort's context
+3. Use the [Assessment Rubrics](./facilitator-guide/assessment-rubrics.md) to evaluate Fellow outputs
+
+---
+
+## About DreamLabs Foundation
+
+DreamLabs Foundation is a Myanmar-based initiative identifying, nurturing, and empowering exceptional young leaders committed to creating positive change in Myanmar and beyond through innovative solutions and sustainable ventures.
+
+**Our Mission:** Empowering young leaders with the tools, resources, and networks needed to create lasting positive impact in their communities.
+
+**Innovation Studio:** A collaborative workspace and lab for developing sustainable solutions to Myanmar's challenges — this AI Mastery Program is a core offering of the Studio.
+
+Learn more: [dreamlabs.foundation](https://dreamlabs.foundation)
 
 ---
 
@@ -102,8 +134,8 @@ This is a living curriculum. To suggest updates, corrections, or additions:
 
 ## License
 
-MIT License — free to use, adapt, and redistribute with attribution.
+MIT License — free to use, adapt, and redistribute with attribution to DreamLabs Foundation Innovation Studio.
 
 ---
 
-*Curriculum based on Outskill AI Tools Deep Dive. Built for executive education.*
+*Part of the DreamLabs Foundation Innovation Studio — [dreamlabs.foundation](https://dreamlabs.foundation)*

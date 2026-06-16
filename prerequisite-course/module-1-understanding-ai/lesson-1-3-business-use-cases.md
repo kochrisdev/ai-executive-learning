@@ -12,35 +12,43 @@ Here is how executives across functions are actually using it:
 
 ---
 
-## By Function
+## By Impact Area
 
-### Strategy & Finance
-- Synthesizing analyst reports and earnings transcripts in minutes
-- Running "what if" scenario analysis on financial models with natural language queries
-- Drafting board presentations, investor memos, and strategic narratives
-- Competitive intelligence: monitoring and summarizing competitor moves
+### Social Enterprises & NGOs
+- Drafting grant proposals and impact reports in a fraction of the time
+- Generating donor communications, partner outreach, and stakeholder updates
+- Synthesizing field research and community interviews into structured insights
+- Building program documentation that stays current
 
-### Sales & Marketing
-- Generating first drafts of proposals, pitch decks, and RFPs
-- Personalizing outreach at scale without a copywriting team
-- Summarizing call recordings and extracting action items (Fireflies, Gong)
-- Building campaign briefs, ad copy, and social content in minutes
+### Education & Youth Development
+- Creating personalized learning materials and curricula
+- Translating content across languages for broader community reach
+- Building AI tutors and Q&A assistants for underserved learners
+- Summarizing feedback from students or community members into actionable themes
 
-### Operations & HR
-- Drafting policies, job descriptions, and performance review frameworks
-- Summarizing employee feedback surveys into themes and recommendations
-- Automating routine email responses and status updates
-- Onboarding documentation that updates itself
+### Sustainable Agriculture & Environment
+- Researching climate data, weather patterns, and agronomic best practices
+- Drafting farmer education materials in local languages
+- Building monitoring dashboards from field data
+- Generating impact measurement reports for funders
 
-### Legal & Compliance
-- First-pass review of contracts (flagging non-standard clauses)
-- Summarizing regulatory changes and their business impact
-- Drafting NDAs, vendor agreements, and policy documents for lawyer review
+### Health & Community Wellbeing
+- Summarizing medical research into plain-language community guides
+- Drafting health education content for local distribution
+- Automating patient intake communications and follow-up
+- Analyzing community feedback surveys to surface priority needs
 
-### Product & Engineering
-- Writing user stories, acceptance criteria, and product specs
-- Translating customer feedback into product requirements
-- Code review, documentation generation, and test case writing
+### Entrepreneurship & Ventures
+- Writing business plans, pitch decks, and investor memos
+- Competitive and market research in minutes rather than days
+- Personalizing customer outreach and product communications
+- Prototyping product ideas with AI-generated mockups and copy
+
+### Advocacy & Policy
+- Summarizing policy documents, regulations, and research papers
+- Drafting advocacy briefs, position papers, and public communications
+- Monitoring news and policy developments in specific areas
+- Preparing for media appearances and public presentations
 
 ---
 
@@ -70,20 +78,20 @@ Here is how executives across functions are actually using it:
 
 ---
 
-## The "AI-Augmented Executive" vs. "AI-Replaced Role"
+## The "AI-Augmented Impact-Maker"
 
-The executives most at risk are not those who use AI — they are those who refuse to. The competitive gap between AI-fluent and AI-passive executives is widening every quarter.
+The impact-makers who will create the most change are not those who use AI to replace human connection — they are those who use it to eliminate the administrative and logistical burden that separates them from the work that matters.
 
-The AI-augmented executive:
-- Directs AI tools like a skilled manager directs a team
-- Knows which tasks to delegate to AI and which require human judgment
+The AI-augmented impact-maker:
+- Directs AI tools like a skilled collaborator, not a magic box
+- Knows which tasks to delegate to AI and which require human judgment and empathy
 - Reviews and refines AI output rather than starting from scratch
-- Builds workflows that leverage AI across their entire team's output
+- Builds workflows that scale their impact without scaling their team proportionally
 
-AI does not replace the executive. It replaces the executive's lowest-value time expenditure — so the executive can spend more time on what only they can do.
+AI does not replace the human changemaker. It replaces the hours spent on drafts, research, formatting, and routine communications — so the impact-maker can spend more time on community relationships, creative problem-solving, and the work only they can do.
 
 ---
 
 ## Key Takeaway
 
-AI is creating measurable competitive advantage right now — not in 3 years. The business case is not "should we explore AI" but "how fast can we adopt it without introducing risk we can't manage."
+AI is creating measurable impact advantage right now — not in 3 years. For Myanmar's impact-makers operating with limited resources and ambitious goals, the question is not "should we use AI" but "how do we adopt it responsibly and put it to work for our communities."

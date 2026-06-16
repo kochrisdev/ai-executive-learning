@@ -1,8 +1,9 @@
 # Module 2: Your First AI Tools — Hands-On Orientation
+### DreamLabs Foundation Innovation Studio
 
 **Duration:** ~90 minutes
 **Format:** Step-by-step setup + guided exercises in live tools
-**Outcome:** You have working accounts in ChatGPT, Claude, and Perplexity and have completed your first real business tasks in each.
+**Outcome:** You have working accounts in ChatGPT, Claude, and Perplexity and have completed your first real tasks relevant to your impact work in each.
 
 ---
 

@@ -1,8 +1,9 @@
 # Phase 1: AI Landscape & Strategic Framing
+### DreamLabs Foundation Innovation Studio Deep Dive
 
 **Day:** Day 1, Morning
 **Duration:** 3 hours
-**Facilitator:** Lead instructor
+**Facilitator:** Lead DreamLabs Innovation Studio instructor
 **Room setup:** Theater or classroom with live screen share
 
 ---
@@ -70,8 +71,13 @@ Participants complete a personal routing map deciding which tool to use for whic
 
 ## Facilitator Notes
 
-- Start with a show of hands: who has used AI tools before today? What tools?
-- The pre-work debrief surfaces questions and sets expectations — budget 5 extra minutes if the group is talkative
-- During the hands-on exercise, watch for participants who are stuck on prompt quality — coach them to add role and context first
-- The cohort share-out is high-value — encourage participants to share their actual prompts, not just describe them
-- Common issue: participants try to use AI on tasks where human judgment is clearly required — use these as teachable moments about appropriate use cases
+- Open by naming the DreamLabs mission: "We're here to put AI in the hands of Myanmar's next generation of impact-makers. Everything we build this week serves that purpose."
+- Start with a show of hands: who has used AI tools before today? What tools? What initiative are you working on?
+- The pre-work debrief surfaces questions and sets the peer tone — budget 5 extra minutes if the group is talkative
+- During the hands-on exercise, watch for Fellows who are stuck on prompt quality — coach them to add role and context first; use their real initiative as the subject
+- The cohort share-out is high-value — encourage Fellows to share their actual prompts and actual outputs, not just describe them. Peer examples from Myanmar's context are more motivating than generic demos
+- Common issue: Fellows try to use AI on tasks requiring deep community trust and human judgment — use these as teachable moments. AI excels at logistics, drafting, and research; human connection and community relationships remain irreplaceable
+
+---
+
+*DreamLabs Foundation Innovation Studio — [dreamlabs.foundation](https://dreamlabs.foundation)*
